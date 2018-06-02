@@ -1,0 +1,22 @@
+/* ...CSS...*/
+
+.myheader{
+    padding: 1% !important;
+}
+.myform{
+    padding: .1% !important;
+    text-align: center;
+}
+.myinput{
+    margin-top: .3% !important;
+    width: 30% !important;
+}
+.mylabel{
+    font-style: normal !important;
+    font-size: large !important;
+    font-weight: bold !important;
+}
+.mycards{;
+    margin-top: 1% !important;
+}
+
